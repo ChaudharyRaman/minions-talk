@@ -23,7 +23,7 @@ fetch(newURL)
     output.innerHTML = translatedText;})
 .catch(errorHandeler)
 })
-
+console.log("HELLO BERLIN ");
 
 
 
